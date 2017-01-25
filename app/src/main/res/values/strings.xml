@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IntentExcercises</string>
+
+    <string name="actionSpeechintent">Speech Intent</string>
+    <string name="actionMultipleintents">Various Intents</string>
+    <string name="lblClickHere">Click here to say something</string>
+    <string name="titleActivityVariousIntents">VariousIntents</string>
+    <string name="actionSettings">Settings</string>
+    <string name="lblOpenWebsite">Open Website</string>
+    <string name="lblOpenContacts">Open Contacts</string>
+    <string name="lblOpenDialer">Open Dialer</string>
+    <string name="lblSearchGoogle">Search Google</string>
+    <string name="lblStartVoiceCommand">Start Voice Command</string>
+</resources>
