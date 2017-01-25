@@ -59,8 +59,10 @@ public class MultipleIntents extends AppCompatActivity {
     public void openWebsite(){
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setTitle("Type in the url");
+
         final EditText inputWebsite = new EditText(this);
         inputWebsite.setInputType(InputType.TYPE_CLASS_TEXT);
+
         builder.setView(inputWebsite);
         builder.setPositiveButton("Go", new DialogInterface.OnClickListener() {
             @Override
